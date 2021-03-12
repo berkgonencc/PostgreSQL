@@ -1,5 +1,6 @@
 create table students
 (
+GHocam
 	student_no integer,
 	student_name varchar(20),
 	age integer
